@@ -1,2 +1,2 @@
 # raksh 
-using namespace std 
+using namespace std" /n"by include iostream
